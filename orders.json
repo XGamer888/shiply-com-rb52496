@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Brückenstraße 5",
+      "postal_code": "07980",
+      "city": "Berga-Wünschendorf",
+      "country": "Deutschland",
+      "lat": "50.79587646571216",
+      "lng": "12.092839768564245"
     }
   }
 }
